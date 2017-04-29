@@ -14,3 +14,9 @@ target/core-1.0-SNAPSHOT.jar
 target/generated-sources/
 target/maven-archiver/
 target/maven-status/
+core.iml
+core.ipr
+core.iws
+src/main/java/designPattern/
+target/
+test
