@@ -1,0 +1,16 @@
+.idea
+.class
+corejava.iml
+src/main/resources/
+src/test/
+target/classes/TestTryCatchWithError.class
+target/classes/collection/
+target/classes/core/ImmutableClass.class
+target/classes/core/MainVsStaticBlock.class
+target/classes/core/PassByValueNotReference.class
+target/classes/core/TestListWithSetMethod.class
+target/classes/domain/
+target/core-1.0-SNAPSHOT.jar
+target/generated-sources/
+target/maven-archiver/
+target/maven-status/
