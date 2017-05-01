@@ -35,4 +35,5 @@ public final class ImmutableClass {
     public Date getMutableDate() {
         return mutableDate;
     }
+    
 }
